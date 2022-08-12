@@ -22,7 +22,7 @@ Assign a result to "answer"
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|               |10.95            |
+|               |-2.55            |
 
 # build_func03
 
@@ -130,7 +130,7 @@ Use the pow function
 
 # build_func10
 
-Create a variable "x"  and assign it the value of the 2.\
+Create a variable "x"  and assign it the value of the 8.\
 Create a variable "y"  and assign it the value of the 4.\
 Calculate the value: <img src="https://latex.codecogs.com/gif.latex?\3y^{\frac{1}{2}}+x^{\frac{2}{3}}">.\
 Assign a result to "answer"\
@@ -143,4 +143,4 @@ Use the round function
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|2 4            |160              |
+|8 4            |10.0              |
